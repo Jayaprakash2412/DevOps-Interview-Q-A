@@ -1,3 +1,6 @@
 1: What is Jenkins primarily used for?
 A: Jenkins is a continuous integration/continuous delivery (CI/CD) automation server that helps build, test, 
     and deploy applications automatically to speed up software delivery.
+
+2: What is a Jenkins job?
+A: A Jenkins job is a configured task in Jenkins that defines steps such as compiling code, running tests, or deploying code to an environment.
