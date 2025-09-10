@@ -1,3 +1,6 @@
 1: What is Apache Tomcat used for?
 A: Apache Tomcat is an open-source application server that implements Java Servlet, JSP, and WebSocket technologies. 
    It is primarily used to deploy and run Java-based web applications.
+
+2: In which folder of Tomcat do we place WAR files for deployment?
+A: WAR files are placed inside the webapps folder of the Tomcat installation directory. Tomcat automatically deploys applications placed in that folder.
