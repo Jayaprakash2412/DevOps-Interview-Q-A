@@ -1,3 +1,7 @@
 1: What does SonarQube analyze in code?
 A: SonarQube analyzes code for quality, bugs, vulnerabilities, duplications, and adherence to coding standards. 
    It helps maintain code health through automated static code analysis.
+
+2: What is a code smell in SonarQube?
+A: A code smell is an indication of poor coding practice that does not necessarily cause bugs but can make code more difficult to maintain and extend. 
+   Examples include long methods or duplicate code.
