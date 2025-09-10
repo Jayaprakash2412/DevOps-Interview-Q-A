@@ -1,3 +1,6 @@
 1: What is the role of Nexus Repository?
 A: Nexus acts as a repository manager for storing and managing build artifacts, dependencies, and Docker images.
    It serves as a central location for teams to share and retrieve components.
+
+2: What type of artifacts can Nexus store?
+A: Nexus can store artifacts such as JARs, WARs, EARs, Docker images, npm packages, Python wheels, and other binaries used in development.
