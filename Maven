@@ -1,1 +1,5 @@
+1: What problem does Maven solve in software development?
+A: Maven automates project builds, dependency management, and project lifecycle management. 
+   It simplifies handling third-party libraries and ensures consistency across environments.
+
 
