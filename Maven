@@ -2,4 +2,8 @@
 A: Maven automates project builds, dependency management, and project lifecycle management. 
    It simplifies handling third-party libraries and ensures consistency across environments.
 
+2: What is the purpose of the pom.xml file in Maven?
+A: The pom.xml is the Project Object Model file where all configuration details for the project are specified. 
+   It defines dependencies, build plugins, repositories, and the project lifecycle.
+
 
