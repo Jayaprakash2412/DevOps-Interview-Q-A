@@ -1,3 +1,6 @@
 1: What is Ansible used for in DevOps?
 A: Ansible is a configuration management and automation tool used to automate provisioning, application deployment, 
    and infrastructure management with simple YAML playbooks.
+
+2: What is an Ansible Playbook?
+A: A Playbook is a YAML file that defines tasks, modules, and configurations to be executed on managed hosts. It describes what to do in an automation workflow.
