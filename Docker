@@ -1,1 +1,2 @@
-
+1: What problem does Docker solve?
+A: Docker enables packaging applications into containers, making them portable and consistent across environments by isolating dependencies and configurations.
