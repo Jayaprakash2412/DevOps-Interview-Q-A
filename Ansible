@@ -4,3 +4,6 @@ A: Ansible is a configuration management and automation tool used to automate pr
 
 2: What is an Ansible Playbook?
 A: A Playbook is a YAML file that defines tasks, modules, and configurations to be executed on managed hosts. It describes what to do in an automation workflow.
+
+3: What is the difference between Ansible inventory and playbook?
+A: The inventory file defines the list of target hosts, while the playbook defines the tasks and configurations to apply on those targets.
