@@ -4,3 +4,6 @@ A: Nexus acts as a repository manager for storing and managing build artifacts, 
 
 2: What type of artifacts can Nexus store?
 A: Nexus can store artifacts such as JARs, WARs, EARs, Docker images, npm packages, Python wheels, and other binaries used in development.
+
+3: What is a Proxy Repository in Nexus?
+A: A Proxy Repository caches dependencies from external repositories (like Maven Central) to reduce build times and allow offline builds.
