@@ -4,3 +4,7 @@ A: Jenkins is a continuous integration/continuous delivery (CI/CD) automation se
 
 2: What is a Jenkins job?
 A: A Jenkins job is a configured task in Jenkins that defines steps such as compiling code, running tests, or deploying code to an environment.
+
+3: What is a Jenkins pipeline?
+A: A Jenkins pipeline defines the series of steps for building, testing, and deploying applications as code (either scripted or declarative), 
+   providing better manageability and repeatability of CI/CD.
