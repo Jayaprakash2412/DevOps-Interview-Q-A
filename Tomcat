@@ -4,3 +4,6 @@ A: Apache Tomcat is an open-source application server that implements Java Servl
 
 2: In which folder of Tomcat do we place WAR files for deployment?
 A: WAR files are placed inside the webapps folder of the Tomcat installation directory. Tomcat automatically deploys applications placed in that folder.
+
+3: Which protocol does Tomcat primarily support?
+A: Tomcat primarily supports the HTTP/HTTPS protocol along with Servlet, JSP, and WebSocket APIs for running Java web applications.
