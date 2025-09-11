@@ -6,4 +6,8 @@ A: Maven automates project builds, dependency management, and project lifecycle 
 A: The pom.xml is the Project Object Model file where all configuration details for the project are specified. 
    It defines dependencies, build plugins, repositories, and the project lifecycle.
 
+3: What is the difference between the "compile" and "install" phases in Maven?
+A: The compile phase compiles the source code of the project. The install phase compiles, packages, 
+   and copies the artifact into the local repository for use in other projects.
+
 
