@@ -5,3 +5,6 @@ A: SonarQube analyzes code for quality, bugs, vulnerabilities, duplications, and
 2: What is a code smell in SonarQube?
 A: A code smell is an indication of poor coding practice that does not necessarily cause bugs but can make code more difficult to maintain and extend. 
    Examples include long methods or duplicate code.
+
+3: How is SonarQube integrated into CI/CD pipelines?
+A: SonarQube is integrated by adding a SonarQube scanner plugin or step into the CI/CD pipeline (e.g., Jenkins) to automatically analyze code quality during builds.
