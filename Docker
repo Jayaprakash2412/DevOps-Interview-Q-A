@@ -1,6 +1,9 @@
 1: What problem does Docker solve?
 A: Docker enables packaging applications into containers, making them portable and consistent across environments by isolating dependencies and configurations.
 
-Q: What is the difference between a container and an image?
+2: What is the difference between a container and an image?
 A: An image is a static blueprint that contains application code, libraries, and dependencies. 
    A container is a running instance of an image that executes in an isolated environment.
+
+3: Explain the use of Dockerfile.
+A: A Dockerfile is a text file with instructions to build a Docker image. It defines base image, environment, dependencies, and commands to run when the container starts.
