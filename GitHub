@@ -5,3 +5,7 @@ A: Git is a distributed version control system that tracks changes in source cod
 2: What is a Pull Request (PR) in GitHub?
 A: A Pull Request is a request to merge changes from one branch into another. 
    It allows team members to review, discuss, and suggest modifications before merging code into the main branch.
+
+3: What is GitHub Actions?
+A: GitHub Actions is a CI/CD feature built into GitHub that enables automation of workflows like building, testing, 
+   and deploying directly from a repository using YAML files.
