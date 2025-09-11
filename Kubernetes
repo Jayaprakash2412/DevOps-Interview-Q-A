@@ -3,3 +3,7 @@ A: Kubernetes is an open-source container orchestration platform used for automa
 
 2: What is a Pod in Kubernetes?
 A: A Pod is the smallest deployable unit in Kubernetes. It represents one or more tightly coupled containers that share the same network and storage resources.
+
+3: What is a Service in Kubernetes?
+A: A Service is a Kubernetes resource that exposes Pods to allow communication between components of an application or external clients,
+   providing a stable endpoint despite pod IP changes.
