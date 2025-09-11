@@ -4,3 +4,7 @@ A: IaC in Terraform means defining cloud and on-prem resources in human-readable
 
 2: What language is used to write Terraform configurations?
 A: Terraform configurations are written in HashiCorp Configuration Language (HCL), which is human-readable and designed for declarative infrastructure management.
+
+3: What are Terraform Providers?
+A: Providers are plugins that allow Terraform to manage resources for specific platforms like AWS, Azure, GCP, VMware, etc. 
+   They act as a bridge between Terraform and the underlying infrastructure.
