@@ -8,3 +8,6 @@ A: A Jenkins job is a configured task in Jenkins that defines steps such as comp
 3: What is a Jenkins pipeline?
 A: A Jenkins pipeline defines the series of steps for building, testing, and deploying applications as code (either scripted or declarative), 
    providing better manageability and repeatability of CI/CD.
+
+4: What is the purpose of Jenkins plugins?
+A: Plugins extend Jenkins’ functionality, enabling integrations with version control systems, build tools, test frameworks, cloud providers, and more.
