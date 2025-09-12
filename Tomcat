@@ -7,3 +7,7 @@ A: WAR files are placed inside the webapps folder of the Tomcat installation dir
 
 3: Which protocol does Tomcat primarily support?
 A: Tomcat primarily supports the HTTP/HTTPS protocol along with Servlet, JSP, and WebSocket APIs for running Java web applications.
+
+4: How is Tomcat different from a full JEE application server?
+A: Tomcat is a lightweight servlet container that supports Servlets, JSP, and WebSocket, but unlike full JEE servers (e.g., JBoss, WebLogic),
+   it doesn’t support advanced features like EJB or JMS.
