@@ -7,3 +7,6 @@ A: A Playbook is a YAML file that defines tasks, modules, and configurations to 
 
 3: What is the difference between Ansible inventory and playbook?
 A: The inventory file defines the list of target hosts, while the playbook defines the tasks and configurations to apply on those targets.
+
+4: What is Ansible Galaxy?
+A: Ansible Galaxy is a public repository of pre-built Ansible roles and collections that can be reused to speed up automation tasks.
