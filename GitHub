@@ -9,3 +9,7 @@ A: A Pull Request is a request to merge changes from one branch into another.
 3: What is GitHub Actions?
 A: GitHub Actions is a CI/CD feature built into GitHub that enables automation of workflows like building, testing, 
    and deploying directly from a repository using YAML files.
+
+4: What is a GitHub Fork?
+A: A fork is a personal copy of someone else’s repository on GitHub. 
+   It allows developers to freely experiment with changes without affecting the original project and later contribute through Pull Requests.
