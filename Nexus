@@ -7,3 +7,6 @@ A: Nexus can store artifacts such as JARs, WARs, EARs, Docker images, npm packag
 
 3: What is a Proxy Repository in Nexus?
 A: A Proxy Repository caches dependencies from external repositories (like Maven Central) to reduce build times and allow offline builds.
+
+4: What is a Hosted Repository in Nexus?
+A: A Hosted Repository is a private storage location inside Nexus where developers can publish and store their own build artifacts for use within their organization.
