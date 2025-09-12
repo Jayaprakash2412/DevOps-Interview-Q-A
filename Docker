@@ -7,3 +7,7 @@ A: An image is a static blueprint that contains application code, libraries, and
 
 3: Explain the use of Dockerfile.
 A: A Dockerfile is a text file with instructions to build a Docker image. It defines base image, environment, dependencies, and commands to run when the container starts.
+
+4: How do you check the list of running containers?
+A: By using the command: docker ps
+   This shows active running containers with their IDs, status, and ports.
