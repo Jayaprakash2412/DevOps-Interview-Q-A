@@ -10,4 +10,6 @@ A: The pom.xml is the Project Object Model file where all configuration details 
 A: The compile phase compiles the source code of the project. The install phase compiles, packages, 
    and copies the artifact into the local repository for use in other projects.
 
+4: What is the "package" phase in Maven?
+A: In the package phase, Maven compiles the code and packages it into a distributable format, such as a JAR or WAR file.
 
