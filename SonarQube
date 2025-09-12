@@ -8,3 +8,6 @@ A: A code smell is an indication of poor coding practice that does not necessari
 
 3: How is SonarQube integrated into CI/CD pipelines?
 A: SonarQube is integrated by adding a SonarQube scanner plugin or step into the CI/CD pipeline (e.g., Jenkins) to automatically analyze code quality during builds.
+
+4: What languages does SonarQube support for analysis?
+A: SonarQube supports a wide variety of languages including Java, Python, C#, JavaScript, C++, Go, Ruby, PHP, and many more through official and community plugins.
