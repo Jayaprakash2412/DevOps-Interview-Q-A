@@ -11,3 +11,6 @@ A: Tomcat primarily supports the HTTP/HTTPS protocol along with Servlet, JSP, an
 4: How is Tomcat different from a full JEE application server?
 A: Tomcat is a lightweight servlet container that supports Servlets, JSP, and WebSocket, but unlike full JEE servers (e.g., JBoss, WebLogic),
    it doesn’t support advanced features like EJB or JMS.
+
+5: What is the default port of Tomcat?
+A: The default port for Tomcat is 8080, specified in the server.xml file under the conf directory.
