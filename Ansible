@@ -10,3 +10,6 @@ A: The inventory file defines the list of target hosts, while the playbook defin
 
 4: What is Ansible Galaxy?
 A: Ansible Galaxy is a public repository of pre-built Ansible roles and collections that can be reused to speed up automation tasks.
+
+5: What is the default language used in Ansible playbooks?
+A: Ansible playbooks are written in YAML (Yet Another Markup Language), which is simple and human-readable.
