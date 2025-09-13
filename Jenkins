@@ -11,3 +11,6 @@ A: A Jenkins pipeline defines the series of steps for building, testing, and dep
 
 4: What is the purpose of Jenkins plugins?
 A: Plugins extend Jenkins’ functionality, enabling integrations with version control systems, build tools, test frameworks, cloud providers, and more.
+
+5: What is the default port number for Jenkins?
+A: Jenkins runs on port 8080 by default, which can be changed from its configuration files.
