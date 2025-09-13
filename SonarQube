@@ -11,3 +11,6 @@ A: SonarQube is integrated by adding a SonarQube scanner plugin or step into the
 
 4: What languages does SonarQube support for analysis?
 A: SonarQube supports a wide variety of languages including Java, Python, C#, JavaScript, C++, Go, Ruby, PHP, and many more through official and community plugins.
+
+5: What is the role of Quality Gates in SonarQube?
+A: A Quality Gate is a set of conditions (e.g., no critical bugs, certain test coverage) that a project must pass for the build to be considered production-ready.
