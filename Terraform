@@ -9,6 +9,10 @@ A: Terraform configurations are written in HashiCorp Configuration Language (HCL
 A: Providers are plugins that allow Terraform to manage resources for specific platforms like AWS, Azure, GCP, VMware, etc. 
    They act as a bridge between Terraform and the underlying infrastructure.
 
-Q: What is the difference between Terraform plan and apply?
+4: What is the difference between Terraform plan and apply?
 A:terraform plan shows the execution plan of what changes Terraform will make.
   terraform apply executes those planned changes to create or modify infrastructure.
+
+5: What is the command used to initialize Terraform?
+A: The command is: terraform init
+   It initializes the backend, downloads provider plugins, and prepares the working directory for Terraform commands.
