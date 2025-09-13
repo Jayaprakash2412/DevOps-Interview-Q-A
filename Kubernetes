@@ -10,3 +10,6 @@ A: A Service is a Kubernetes resource that exposes Pods to allow communication b
 
 4: What is a Deployment in Kubernetes?
 A: A Deployment is a higher-level abstraction that manages ReplicaSets and Pods, ensuring the desired number of Pods are running and allowing rolling updates or rollbacks.
+
+5: What are Kubernetes Namespaces?
+A: A Namespace provides logical partitioning of cluster resources. It helps separate environments (e.g., dev, test, prod) or teams within the same cluster.
