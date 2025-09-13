@@ -13,3 +13,6 @@ A: The compile phase compiles the source code of the project. The install phase 
 4: What is the "package" phase in Maven?
 A: In the package phase, Maven compiles the code and packages it into a distributable format, such as a JAR or WAR file.
 
+5: What is the purpose of the Maven repository?
+A: A Maven repository stores project libraries, dependencies, and plugins. 
+   Maven can fetch these dependencies automatically from repositories like Maven Central, Nexus, or Artifactory.
