@@ -10,3 +10,6 @@ A: A Proxy Repository caches dependencies from external repositories (like Maven
 
 4: What is a Hosted Repository in Nexus?
 A: A Hosted Repository is a private storage location inside Nexus where developers can publish and store their own build artifacts for use within their organization.
+
+5: How does Nexus integrate with Maven builds?
+A: Developers configure Maven’s settings.xml to point to Nexus as a central/proxy repository, allowing Maven to fetch or deploy artifacts through Nexus.
