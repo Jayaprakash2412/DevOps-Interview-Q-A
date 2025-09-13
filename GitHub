@@ -13,3 +13,6 @@ A: GitHub Actions is a CI/CD feature built into GitHub that enables automation o
 4: What is a GitHub Fork?
 A: A fork is a personal copy of someone else’s repository on GitHub. 
    It allows developers to freely experiment with changes without affecting the original project and later contribute through Pull Requests.
+
+5: What is GitHub Clone used for?
+A: git clone is used to create a local copy of a remote repository from GitHub. It lets developers work on the code locally and then push changes back to the GitHub repo.
