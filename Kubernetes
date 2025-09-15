@@ -13,3 +13,6 @@ A: A Deployment is a higher-level abstraction that manages ReplicaSets and Pods,
 
 5: What are Kubernetes Namespaces?
 A: A Namespace provides logical partitioning of cluster resources. It helps separate environments (e.g., dev, test, prod) or teams within the same cluster.
+
+6: How does Kubernetes achieve self-healing?
+A: Kubernetes restarts failed containers, replaces unresponsive Pods, and reschedules workloads on healthy nodes to maintain desired state automatically.
