@@ -16,3 +16,7 @@ A: A fork is a personal copy of someone else’s repository on GitHub.
 
 5: What is GitHub Clone used for?
 A: git clone is used to create a local copy of a remote repository from GitHub. It lets developers work on the code locally and then push changes back to the GitHub repo.
+
+6: What is the difference between GitHub and GitLab?
+A: Both are Git-based platforms, but GitHub is widely used for open-source collaboration,
+   while GitLab offers an integrated set of DevOps tools including built-in CI/CD, container registry, and issue tracking.
