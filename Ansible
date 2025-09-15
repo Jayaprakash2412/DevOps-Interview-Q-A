@@ -13,3 +13,6 @@ A: Ansible Galaxy is a public repository of pre-built Ansible roles and collecti
 
 5: What is the default language used in Ansible playbooks?
 A: Ansible playbooks are written in YAML (Yet Another Markup Language), which is simple and human-readable.
+
+6: What is the purpose of an Inventory file in Ansible?
+A: The Inventory file lists all target hosts and groups, defining the servers where playbooks or ad-hoc tasks will be executed.
