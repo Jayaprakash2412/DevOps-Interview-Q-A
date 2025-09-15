@@ -14,3 +14,7 @@ A: Plugins extend Jenkins’ functionality, enabling integrations with version c
 
 5: What is the default port number for Jenkins?
 A: Jenkins runs on port 8080 by default, which can be changed from its configuration files.
+
+6: What is the difference between Freestyle and Pipeline jobs in Jenkins?
+A: Freestyle jobs are simple, GUI-based job configurations. Pipeline jobs define build workflows as code (using Groovy/Declarative syntax), 
+   providing better flexibility and version control.
