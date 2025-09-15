@@ -14,3 +14,6 @@ A: SonarQube supports a wide variety of languages including Java, Python, C#, Ja
 
 5: What is the role of Quality Gates in SonarQube?
 A: A Quality Gate is a set of conditions (e.g., no critical bugs, certain test coverage) that a project must pass for the build to be considered production-ready.
+
+6: What is the role of SonarQube server and scanner?
+A: The scanner analyzes source code locally and sends results to the SonarQube server, which then stores, displays, and manages the quality reports through its dashboard.
