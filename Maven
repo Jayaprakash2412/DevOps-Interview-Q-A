@@ -16,3 +16,6 @@ A: In the package phase, Maven compiles the code and packages it into a distribu
 5: What is the purpose of the Maven repository?
 A: A Maven repository stores project libraries, dependencies, and plugins. 
    Maven can fetch these dependencies automatically from repositories like Maven Central, Nexus, or Artifactory.
+
+6: What is Maven Central Repository?
+A: Maven Central is the default public repository where Maven downloads libraries and plugins from. It is hosted by Sonatype and provides thousands of reusable artifacts.
