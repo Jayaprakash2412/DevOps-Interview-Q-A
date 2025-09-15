@@ -14,3 +14,7 @@ A: By using the command: docker ps
 
 5: What is Docker Hub?
 A: Docker Hub is a cloud registry service where container images can be stored, shared, and fetched by Docker CLI. It is the default registry for Docker images.
+
+6: What is the command to build a Docker image?
+A: docker build -t image_name:tag .
+   This command builds an image from a Dockerfile in the current directory.
