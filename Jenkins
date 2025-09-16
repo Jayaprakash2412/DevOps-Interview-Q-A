@@ -18,3 +18,6 @@ A: Jenkins runs on port 8080 by default, which can be changed from its configura
 6: What is the difference between Freestyle and Pipeline jobs in Jenkins?
 A: Freestyle jobs are simple, GUI-based job configurations. Pipeline jobs define build workflows as code (using Groovy/Declarative syntax), 
    providing better flexibility and version control.
+
+7: What are Jenkins agents?
+A: Jenkins agents (or nodes) are worker machines connected to the Jenkins master that execute build tasks, enabling distributed and parallel workloads.
