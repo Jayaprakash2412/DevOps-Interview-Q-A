@@ -16,3 +16,6 @@ A: A Namespace provides logical partitioning of cluster resources. It helps sepa
 
 6: How does Kubernetes achieve self-healing?
 A: Kubernetes restarts failed containers, replaces unresponsive Pods, and reschedules workloads on healthy nodes to maintain desired state automatically.
+
+7: What kind of workloads can Kubernetes run?
+A: Kubernetes can run stateless applications, stateful applications (databases, message queues), and batch workloads (jobs, cron jobs).
