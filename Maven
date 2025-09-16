@@ -19,3 +19,7 @@ A: A Maven repository stores project libraries, dependencies, and plugins.
 
 6: What is Maven Central Repository?
 A: Maven Central is the default public repository where Maven downloads libraries and plugins from. It is hosted by Sonatype and provides thousands of reusable artifacts.
+
+7: How does Maven handle dependencies?
+A: Maven resolves dependencies defined in the pom.xml by automatically downloading them from repositories (local, central, or remote).
+   It also manages transitive dependencies.
