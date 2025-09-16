@@ -20,3 +20,6 @@ A: The command is: terraform init
 6: What is Terraform state file?
 A: The Terraform state file (terraform.tfstate) keeps track of infrastructure resources. 
    It maps configuration files to real-world infrastructure, enabling Terraform to detect changes and apply only necessary updates.
+
+7: What cloud providers are supported by Terraform?
+A: Terraform supports major cloud providers like AWS, Azure, Google Cloud, Oracle, and also on-prem providers like VMware, OpenStack, and many SaaS platforms through providers.
