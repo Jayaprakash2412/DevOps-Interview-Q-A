@@ -16,3 +16,6 @@ A: Ansible playbooks are written in YAML (Yet Another Markup Language), which is
 
 6: What is the purpose of an Inventory file in Ansible?
 A: The Inventory file lists all target hosts and groups, defining the servers where playbooks or ad-hoc tasks will be executed.
+
+7: What is ansible.cfg used for?
+A: ansible.cfg is the Ansible configuration file, used to define default inventory paths, SSH settings, and other execution parameters.
