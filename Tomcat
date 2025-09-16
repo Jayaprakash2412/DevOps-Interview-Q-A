@@ -21,3 +21,6 @@ A: On Linux, use:
    ./catalina.sh stop
 
     On Windows, you can use startup.bat and shutdown.bat inside the bin folder.
+
+7: Where is the Tomcat configuration file located?
+A: The main Tomcat configuration file is server.xml, located in the conf/ directory of the Tomcat installation.
