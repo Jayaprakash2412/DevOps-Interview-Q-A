@@ -18,3 +18,7 @@ A: Docker Hub is a cloud registry service where container images can be stored, 
 6: What is the command to build a Docker image?
 A: docker build -t image_name:tag .
    This command builds an image from a Dockerfile in the current directory.
+
+7: How do you remove a running container in Docker?
+A: You can stop and remove it with: docker rm -f <container_id>
+   The -f flag ensures the container is stopped and removed forcefully.
