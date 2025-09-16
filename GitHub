@@ -20,3 +20,7 @@ A: git clone is used to create a local copy of a remote repository from GitHub. 
 6: What is the difference between GitHub and GitLab?
 A: Both are Git-based platforms, but GitHub is widely used for open-source collaboration,
    while GitLab offers an integrated set of DevOps tools including built-in CI/CD, container registry, and issue tracking.
+
+7: What is the difference between public and private repositories in GitHub?
+A: Public repositories are visible to anyone on GitHub, allowing open-source collaboration.
+   Private repositories are restricted, and only invited collaborators can view or contribute.
