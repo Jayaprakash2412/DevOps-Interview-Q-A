@@ -16,3 +16,6 @@ A: Developers configure Maven’s settings.xml to point to Nexus as a central/pr
 
 6: How do you delete artifacts from Nexus?
 A: Artifacts can be deleted using the Nexus Repository Manager UI if you have admin rights, or through REST API calls for automation.
+
+7: How do you upload artifacts manually in Nexus?
+A: Artifacts can be uploaded via the Nexus Repository Manager UI by choosing the appropriate repository and using the Upload option.
