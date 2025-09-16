@@ -17,3 +17,6 @@ A: A Quality Gate is a set of conditions (e.g., no critical bugs, certain test c
 
 6: What is the role of SonarQube server and scanner?
 A: The scanner analyzes source code locally and sends results to the SonarQube server, which then stores, displays, and manages the quality reports through its dashboard.
+
+7: What is the difference between a bug and a vulnerability in SonarQube?
+A: A bug represents an error or fault in code that may cause incorrect behavior. A vulnerability is a security-related issue that could make the system vulnerable to attacks.
