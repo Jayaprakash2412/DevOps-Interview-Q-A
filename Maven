@@ -23,3 +23,7 @@ A: Maven Central is the default public repository where Maven downloads librarie
 7: How does Maven handle dependencies?
 A: Maven resolves dependencies defined in the pom.xml by automatically downloading them from repositories (local, central, or remote).
    It also manages transitive dependencies.
+
+8: What is a Maven plugin?
+A: A Maven plugin is an extension that adds specific capabilities to the Maven build process, such as compiling code or running tests. 
+   Plugins are defined in the pom.xml file and executed as part of the build lifecycle.
