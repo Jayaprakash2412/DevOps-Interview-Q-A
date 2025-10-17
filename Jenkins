@@ -24,3 +24,6 @@ A: Jenkins agents (or nodes) are worker machines connected to the Jenkins master
 
 8: How do you schedule jobs in Jenkins?
 A: Jenkins jobs can be scheduled using cron syntax in the “Build Triggers” section. This allows jobs to run automatically at specified times or intervals.
+
+9: How do you install new plugins in Jenkins?
+A: Go to Manage Jenkins > Manage Plugins, then select and install desired plugins from the available list. Jenkins may require a restart after installing certain plugins.
