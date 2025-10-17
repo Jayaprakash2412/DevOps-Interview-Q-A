@@ -24,3 +24,7 @@ A: Both are Git-based platforms, but GitHub is widely used for open-source colla
 7: What is the difference between public and private repositories in GitHub?
 A: Public repositories are visible to anyone on GitHub, allowing open-source collaboration.
    Private repositories are restricted, and only invited collaborators can view or contribute.
+
+8: What is the purpose of GitHub Issues?
+A: GitHub Issues allow users to track bugs, enhancements, tasks, or questions within a repository. 
+   They support discussion, assignment, and labeling for effective project management.
