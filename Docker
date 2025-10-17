@@ -25,3 +25,6 @@ A: You can stop and remove it with: docker rm -f <container_id>
 
 8: What is the Docker command to view logs of a container?
 A: The command is: docker logs <container_id or container_name>
+
+9: What is the purpose of docker-compose?
+A: docker-compose is a tool for defining and running multi-container Docker applications using a YAML file to configure the services, networks, and volumes.
