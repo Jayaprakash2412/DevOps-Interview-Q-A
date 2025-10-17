@@ -28,3 +28,7 @@ A: Terraform supports major cloud providers like AWS, Azure, Google Cloud, Oracl
 8: What is the difference between Terraform and Ansible?
 A: Terraform is used for infrastructure provisioning (creating servers, networks, etc.), 
    while Ansible focuses on configuration management and application deployment on already provisioned systems.
+
+9: What is the difference between Terraform refresh and apply?
+A: terraform refresh updates the Terraform state file to match real-world infrastructure without modifying resources. 
+   terraform apply applies changes from configuration files to reach the desired state, making updates to actual infrastructure.
