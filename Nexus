@@ -22,3 +22,7 @@ A: Artifacts can be uploaded via the Nexus Repository Manager UI by choosing the
 
 8: What is a Group repository in Nexus?
 A: A Group repository in Nexus combines multiple hosted and proxy repositories under a single URL, allowing clients to access artifacts from several sources transparently.
+
+9: How can Nexus proxy external repositories?
+A: Nexus can proxy external repositories by setting up a "Proxy Repository." 
+   When configured, Nexus downloads artifacts from external sources (like Maven Central) and caches them locally for future use.
