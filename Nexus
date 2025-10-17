@@ -19,3 +19,6 @@ A: Artifacts can be deleted using the Nexus Repository Manager UI if you have ad
 
 7: How do you upload artifacts manually in Nexus?
 A: Artifacts can be uploaded via the Nexus Repository Manager UI by choosing the appropriate repository and using the Upload option.
+
+8: What is a Group repository in Nexus?
+A: A Group repository in Nexus combines multiple hosted and proxy repositories under a single URL, allowing clients to access artifacts from several sources transparently.
