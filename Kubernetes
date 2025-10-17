@@ -19,3 +19,7 @@ A: Kubernetes restarts failed containers, replaces unresponsive Pods, and resche
 
 7: What kind of workloads can Kubernetes run?
 A: Kubernetes can run stateless applications, stateful applications (databases, message queues), and batch workloads (jobs, cron jobs).
+
+8: What is a ReplicaSet?
+A: A ReplicaSet is a Kubernetes object that ensures a specified number of pod replicas are running at any given time. 
+   It automatically replaces pods if they fail or are terminated.
