@@ -27,3 +27,6 @@ A: Maven resolves dependencies defined in the pom.xml by automatically downloadi
 8: What is a Maven plugin?
 A: A Maven plugin is an extension that adds specific capabilities to the Maven build process, such as compiling code or running tests. 
    Plugins are defined in the pom.xml file and executed as part of the build lifecycle.
+
+9: What packaging types does Maven support?
+A: Maven supports several packaging types, including JAR, WAR, EAR, and POM. These determine how the project output is bundled and used.
