@@ -21,3 +21,6 @@ A: Freestyle jobs are simple, GUI-based job configurations. Pipeline jobs define
 
 7: What are Jenkins agents?
 A: Jenkins agents (or nodes) are worker machines connected to the Jenkins master that execute build tasks, enabling distributed and parallel workloads.
+
+8: How do you schedule jobs in Jenkins?
+A: Jenkins jobs can be scheduled using cron syntax in the “Build Triggers” section. This allows jobs to run automatically at specified times or intervals.
