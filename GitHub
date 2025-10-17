@@ -28,3 +28,7 @@ A: Public repositories are visible to anyone on GitHub, allowing open-source col
 8: What is the purpose of GitHub Issues?
 A: GitHub Issues allow users to track bugs, enhancements, tasks, or questions within a repository. 
    They support discussion, assignment, and labeling for effective project management.
+
+9: What is GitHub Gist?
+A: GitHub Gist is a simple way to share code snippets, configuration files, or short pieces of text with others.
+   Gists can be public or secret, and support version control like repositories.
