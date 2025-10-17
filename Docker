@@ -22,3 +22,6 @@ A: docker build -t image_name:tag .
 7: How do you remove a running container in Docker?
 A: You can stop and remove it with: docker rm -f <container_id>
    The -f flag ensures the container is stopped and removed forcefully.
+
+8: What is the Docker command to view logs of a container?
+A: The command is: docker logs <container_id or container_name>
