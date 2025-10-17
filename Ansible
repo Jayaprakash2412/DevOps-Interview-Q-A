@@ -19,3 +19,7 @@ A: The Inventory file lists all target hosts and groups, defining the servers wh
 
 7: What is ansible.cfg used for?
 A: ansible.cfg is the Ansible configuration file, used to define default inventory paths, SSH settings, and other execution parameters.
+
+8: How do you run an ad-hoc command in Ansible?
+A: You can run ad-hoc commands with: ansible all -m <module> -a "<arguments>"
+   For example: ansible all -m ping checks communication with all hosts in inventory.
