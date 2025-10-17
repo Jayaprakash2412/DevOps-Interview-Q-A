@@ -28,3 +28,6 @@ A: The main Tomcat configuration file is server.xml, located in the conf/ direct
 8: What is Catalina in Tomcat?
 A: Catalina is the internal name for Tomcat’s servlet container. 
    It is responsible for processing requests and managing the execution of Java servlets and JSPs within Tomcat.
+
+9: What is the function of Tomcat Manager App?
+A: Tomcat Manager App is a web-based interface that allows administrators to deploy, undeploy, start, stop, and manage web applications on the Tomcat server.
