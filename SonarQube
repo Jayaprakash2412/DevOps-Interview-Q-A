@@ -24,3 +24,7 @@ A: A bug represents an error or fault in code that may cause incorrect behavior.
 8: What is technical debt in SonarQube?
 A: Technical debt refers to the extra effort required to fix issues in code, such as poor structure or duplicated logic. 
    SonarQube measures technical debt and helps teams prioritize code improvements.
+
+9: How do you define custom rules in SonarQube?
+A: Custom rules in SonarQube can be defined by editing quality profiles or installing plugins. 
+   Users can modify, activate, or deactivate coding standards to fit their project’s needs.
