@@ -23,3 +23,7 @@ A: ansible.cfg is the Ansible configuration file, used to define default invento
 8: How do you run an ad-hoc command in Ansible?
 A: You can run ad-hoc commands with: ansible all -m <module> -a "<arguments>"
    For example: ansible all -m ping checks communication with all hosts in inventory.
+
+9: What is a module in Ansible?
+A: An Ansible module is a reusable, standalone script that Ansible runs to perform specific tasks, 
+   such as installing packages, managing files, or executing commands on remote machines.
