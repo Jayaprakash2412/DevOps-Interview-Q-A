@@ -24,3 +24,7 @@ A: On Linux, use:
 
 7: Where is the Tomcat configuration file located?
 A: The main Tomcat configuration file is server.xml, located in the conf/ directory of the Tomcat installation.
+
+8: What is Catalina in Tomcat?
+A: Catalina is the internal name for Tomcat’s servlet container. 
+   It is responsible for processing requests and managing the execution of Java servlets and JSPs within Tomcat.
