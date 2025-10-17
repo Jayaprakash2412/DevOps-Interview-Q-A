@@ -23,3 +23,6 @@ A: Kubernetes can run stateless applications, stateful applications (databases, 
 8: What is a ReplicaSet?
 A: A ReplicaSet is a Kubernetes object that ensures a specified number of pod replicas are running at any given time. 
    It automatically replaces pods if they fail or are terminated.
+
+9: What is an Ingress in Kubernetes?
+A: An Ingress is a Kubernetes resource that manages external access to services, typically HTTP/HTTPS, providing routing, SSL termination, and load balancing features.
